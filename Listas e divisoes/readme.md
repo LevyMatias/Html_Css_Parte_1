@@ -17,3 +17,13 @@
 - Divisões de conteúdo, utilizando a *tag* **`<div>`**
 
 - Os comportamentos ***inline\*** e ***block\***
+
+- O conceito de cabeçalho da página e como criá-lo
+
+- Que o cabeçalho da página deve ter mais destaque
+
+- Que não é recomendado criar estilos usando 
+
+  tags
+
+  - O ideal é usarmos classes para tudo

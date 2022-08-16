@@ -5,13 +5,14 @@ body {
 .principal {
 	background: #cccccc;
 	padding: 30px;
+	padding-left: 20px;
 }
 
 img {
     width: 100%;
 }
 
-h1 {
+.titulo-centralizado {
 	text-align: center;
 }
 
@@ -41,8 +42,4 @@ ul {
 
 .imgbeneficios {
 	width: 50%;
-}
-
-h2 {
-	text-align: center;
 }
